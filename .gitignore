@@ -1,2 +1,6 @@
 # Dependency directories
 node_modules/
+
+# Compiled binary addons
+build
+dist
